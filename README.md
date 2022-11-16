@@ -2,7 +2,7 @@
 This application was made by creating our API, using Ruby on Rails, containing some Tesla models' info in our database. In the front end, made with React & Redux, the user is allowed to create an account and book any of the cars we have displayed. Admin users can add entirely new models by sending data to the API.
 
 ## Project back-end
-[Back-end](https://github.com/softtscoder/Backend-Tesla-Booking)
+[Back-end](https://github.com/softtscoder/Tesla-Booking-Backend)
 
 ## :hammer_and_wrench: Built With: 
 - Ruby on Rails
