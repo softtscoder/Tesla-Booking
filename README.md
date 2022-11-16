@@ -2,7 +2,7 @@
 This application was made by creating our API, using Ruby on Rails, containing some Tesla models' info in our database. In the front end, made with React & Redux, the user is allowed to create an account and book any of the cars we have displayed. Admin users can add entirely new models by sending data to the API.
 
 ## Project back-end
-[Back-end](https://github.com/Draxeytina/Back-end_Tesla-Booking)
+[Back-end](https://github.com/softtscoder/Backend-Tesla-Booking)
 
 ## :hammer_and_wrench: Built With: 
 - Ruby on Rails
@@ -21,14 +21,13 @@ This application was made by creating our API, using Ruby on Rails, containing s
   ![image](https://user-images.githubusercontent.com/42799579/199346557-3303a89b-5346-4a3c-b79a-da1f301fee3a.png)
   
 ## Kanban Board
-[Link to project's Kanban Board](https://github.com/users/Draxeytina/projects/4)
 
 ![Initial Kanban Board](https://user-images.githubusercontent.com/42799579/196807680-4828e314-9168-45b8-81d2-aa554a273a4c.png)
 
 ### Team Members
 
 We are a team of 5 members:
-@fibini	@franclobo	@Gopxfs	@Draxeytina	@waqaskanju
+@softtscoder	@softjscoder	@softgineer	@whale-watching
 
 ## Getting Started 
 - To get a local copy of this project clone this repository or download the Zip folder: 
@@ -50,39 +49,6 @@ Localhost:3001
 To edit this project:
 - Open the repository you cloned with a code editor that you like. 
 - Edit the code as you want. 
-
-## :busts_in_silhouette: Authors: 
-👤 **Gabriel Fonseca** 
-- GitHub: [![GitHub Badge](https://img.shields.io/badge/-Gopxfs-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/Gopxfs) 
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-GabrielFonseca-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://www.linkedin.com/in/gabriel-fonseca-sales/)
-
-👤 **Francisco Borja**
-
-- GitHub: [![GitHub Badge](https://img.shields.io/badge/-franclobo-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/franclobo)
-
-- Twitter: [![Twitter Badge](https://img.shields.io/badge/-Pancho2788-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/Pancho2788)
-
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-FranciscoBorja-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://www.linkedin.com/in/francisco-borja-lobato/)
-
-👤 **Fabien**
-
-- GitHub: [![GitHub Badge](https://img.shields.io/badge/-fibini-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/fibini)
-
-- Twitter: [![Twitter Badge](https://img.shields.io/badge/-Onenewpage1-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/Onenewpage1)
-
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-FabienBrathwaite-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://www.linkedin.com/in/fabien-brathwaite/)
-
-👤 **Tinashe Timothy Murambinda**
-
-- GitHub: [![GitHub Badge](https://img.shields.io/badge/-Draxeytina-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/Draxeytina/)
-- Twitter: [![Twitter Badge](https://img.shields.io/badge/-tinamura2-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/tinamura2")
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-TinasheMurambinda-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://www.linkedin.com/in/timothy-tinashe-murambinda/")
-
-👤 **Waqas Ahmad**
-
-- GitHub: [![GitHub Badge](https://img.shields.io/badge/-waqaskanju-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/waqaskanju)
-- Twitter: [![Twitter Badge](https://img.shields.io/badge/-waqaskanju1-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/waqaskanju)
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-WaqasKanju-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://linkedin.com/in/waqaskanju)
 
 ## Acknowledgments
 This project's [design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign) was inspired by [Murat Korkmaz](https://www.behance.net/muratk) under [Creative Commons License](https://creativecommons.org/licenses/).
